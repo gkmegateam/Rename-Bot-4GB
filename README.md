@@ -103,16 +103,16 @@ restart - Use This Command To Cancel All Process And Restart The Bot [Admins Onl
 
 ### ❤️ RESPECTING
 - [JishuDeveloper](https://github.com/JishuDeveloper)
-- [Madflix Official](https://github.com/jishusinha) 
-- [lntechnical](https://github.com/lntechnical2)
+- [BotX Develpers](https://t.me/+4mculdMRK_swYWM9) 
+- [Rakesh - A.K - GK MK - Andrew Garfield - Weox - Emma Stone ](https://t.me/+4mculdMRK_swYWM9)
 
 ### 😍 BOTS CHANNEL
-- [Madflix Botz](https://t.me/Madflix_Bots)
+- [BotXUniverse](https://t.me/BotX_Universe_Hub)
 - [Jishu Botz](https://t.me/JishuBotz)
 
 ### 💕 CONTACT DEVELOPER
 - [Jishu Developer](https://t.me/JishuDeveloper)
-- [Madflix Official](https://t.me/MadflixOfficials)
+- [Develper Channel](https://t.me/MadflixOfficials)
 
 ### ☕ BUY ME A COFFEE
 - [PayPal](https://paypal.me/jishudeveloper/2.50USD)
